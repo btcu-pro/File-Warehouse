@@ -7,6 +7,7 @@
 ## 论文
 * [06.A Cross-Chain Solution to Integrating Multiple Blockchains for IoT Data Management.pdf](books/06.A&#32;Cross-Chain&#32;Solution&#32;to&#32;Integrating&#32;Multiple&#32;Blockchains&#32;for&#32;IoT&#32;Data&#32;Management.pdf)
 * [Fine-Grained, Secure and Efficient Data Provenance on Blockchain Systems.pdf](books/Fine-Grained,&#32;Secure&#32;and&#32;Efficient&#32;Data&#32;Provenance&#32;on&#32;Blockchain&#32;Systems.pdf)
+* [A framework for secure and decentralized sharing of medical imaging data via blockchain consensus.pdf](books/A&#32;framework&#32;for&#32;secure&#32;and&#32;decentralized&#32;sharing&#32;of&#32;medical&#32;imaging&#32;data&#32;via&#32;blockchain&#32;consensus.pdf)
 
 
 ## 白皮书
